@@ -15,4 +15,4 @@ Future Improvements
 -------------------
 
 * Import old DTG weather data for backwards graphing
-* Ability to "compare" data
+* Ability to "compare" data 
